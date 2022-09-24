@@ -469,3 +469,6 @@ $RECYCLE.BIN/
 # Persistence/obj/Persistence.csproj.nuget.dgspec.json
 # Persistence/obj/project.assets.json
 # Persistence/obj/project.nuget.cache
+API/obj/Debug/net6.0/API.csproj.AssemblyReference.cache
+Application/obj/Debug/net6.0/Application.csproj.AssemblyReference.cache
+Persistence/obj/Debug/net6.0/Persistence.csproj.AssemblyReference.cache
