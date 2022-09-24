@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Domain\\Domain.csproj": {}
+    "f:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Domain\\Domain.csproj": {
+    "f:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Domain\\Domain.csproj",
+        "projectUniqueName": "f:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Domain\\Domain.csproj",
+        "projectPath": "f:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Eric\\.nuget\\packages\\",
-        "outputPath": "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Domain\\obj\\",
+        "outputPath": "f:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eric\\AppData\\Roaming\\NuGet\\NuGet.Config",

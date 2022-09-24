@@ -1197,11 +1197,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Application\\Application.csproj",
+      "projectUniqueName": "f:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Application\\Application.csproj",
+      "projectPath": "f:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Eric\\.nuget\\packages\\",
-      "outputPath": "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Application\\obj\\",
+      "outputPath": "f:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Eric\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1218,11 +1218,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Domain\\Domain.csproj": {
-              "projectPath": "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Domain\\Domain.csproj"
+            "f:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Domain\\Domain.csproj": {
+              "projectPath": "f:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Domain\\Domain.csproj"
             },
-            "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Persistence\\Persistence.csproj": {
-              "projectPath": "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Persistence\\Persistence.csproj"
+            "f:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Persistence\\Persistence.csproj": {
+              "projectPath": "f:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\Persistence\\Persistence.csproj"
             }
           }
         }

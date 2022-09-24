@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3zp2jNnGzf2w8RilbWCcxu/S3NIf37/v7YojlUr5OVB14R+DDQhwow3N0+TxQHHzF54Ct8/rx+nF9UEELLHycA==",
+  "dgSpecHash": "faTPLo9qmdWxia5MrucDMYql/AJl1ncLPQT8kzz6mjYwN76IMDvvSVHsECxcGmqCjIghelRrGsi8cWc82lB6Fw==",
   "success": true,
-  "projectFilePath": "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\API\\API.csproj",
+  "projectFilePath": "f:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eric\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.9\\microsoft.data.sqlite.core.6.0.9.nupkg.sha512",
     "C:\\Users\\Eric\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.9\\microsoft.entityframeworkcore.6.0.9.nupkg.sha512",
