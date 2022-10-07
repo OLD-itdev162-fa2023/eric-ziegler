@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\API\\API.csproj": {}
+    "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\api\\API.csproj": {}
   },
   "projects": {
-    "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\API\\API.csproj": {
+    "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\API\\API.csproj",
+        "projectUniqueName": "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\API\\API.csproj",
+        "projectPath": "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Eric\\.nuget\\packages\\",
-        "outputPath": "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\API\\obj\\",
+        "outputPath": "F:\\Code\\MATC\\itdev162_ecomm\\eric-ziegler\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eric\\AppData\\Roaming\\NuGet\\NuGet.Config",
