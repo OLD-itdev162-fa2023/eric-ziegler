@@ -69,5 +69,30 @@ namespace API.Controllers
 
             throw new Exception("Error creating post");
         }
+
+        /// <summary>
+        /// PUT api/posts
+        /// </summary>
+        /// <param name="request">JSOn request containing one or more updated post fields</param>
+        /// <returns></returns>
+        [HttpPut(Name = "Update")]
+        public ActionResult<Post> Update([FromBody]Post request)
+        {
+            var post = context.Posts.Find(request.ID);
+            if (post == null)
+                throw new Exception("Could not find post");
+
+            // update post properties with requests
+            post.Title = request.Title != null ? request.Title : post.Title;
+            post.Body = request.Body != null ? request.Body : post.Body;
+            post.Date = request.Date != null ? request.Date : post.Date;
+
+            var success = context.SaveChanges() > 0;
+
+            if(success)
+                return Ok(post);
+
+            throw new Exception("Error updating post");
+        }
     }
 }
