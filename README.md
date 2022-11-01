@@ -1,3 +1,3 @@
 eric ziegler itdev162
 
-completed activity six
+Activity 8 work completed.
