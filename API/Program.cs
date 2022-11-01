@@ -35,7 +35,8 @@ app.UseAuthorization();
 app.MapControllers();
 
 // Seed data
-using (var scope = app.Services.CreateScope())
+// commented out to stop spamming the DB on every startup
+/* using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
     try
@@ -49,6 +50,6 @@ using (var scope = app.Services.CreateScope())
         var logger = services.GetRequiredService<ILogger<Program>>();
         logger.LogError(e, "Error occurred while seeding the database");
     }
-}
+} */
 
 app.Run();
