@@ -1,4 +1,3 @@
-import { HttpClient } from '@angular/common/http';
 import { Component } from '@angular/core';
 
 @Component({
@@ -7,16 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'client';
-  posts: any;
+  title = 'BlogBox';
 
-  constructor(private http: HttpClient){
-  
-  }
-  ngOnInit(): void {
-    this.http.get('http://localhost:5287/api/posts').subscribe(
-      response => {this.posts = response;},
-      error => {console.log(error)}
-    )
-  }
+  constructor(){}
+  ngOnInit(): void {}
 }
